@@ -1,0 +1,1 @@
+"use strict";console.log("btn");var number=32;console.log(number),console.log("modal");
